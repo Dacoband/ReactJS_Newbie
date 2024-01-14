@@ -1,0 +1,8 @@
+.body{
+  background: fixed;
+  background-color: aqua;
+  justify-content: center;
+  width: 100%;
+  height: auto;
+  align-items: center;
+}
